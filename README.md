@@ -5,4 +5,3 @@ This mod can run with Forge only. [Download forge](https://files.minecraftforge.
 # DESCRIPTION:
 Create Drinkables With this mod: Zhyvchyk, Cola and........ THE **KELP BURGER**
 Explore this mod... __no spoilers__ bruh
-# NEWEST VERSION: ALPHA 1.0.0
