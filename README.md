@@ -1,6 +1,7 @@
 # Simple coca-cola for Minecraft!
 
-### Versions: 1.20.1 1.16.5 ~~1.12.2~~
+### Versions: 1.20.1 1.16.5
+### Planned: 1.12.2
 
 ## **FORGE REQUIRED**
 
